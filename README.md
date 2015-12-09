@@ -1,10 +1,14 @@
 # clojure-use-local-jar
 
-A Clojure library designed to ... well, that part is up to you.
+# 引入本地jar包:
 
-## Usage
+例如 本地jar包存放在 C:\Users\liango\clojure-use-local-jar\resources目录下
 
-FIXME
+在project.clj中使用
+ ```
+    :resource-paths ["resources/*"]
+ ```
+来引入本地的包:
 
 ## License
 
