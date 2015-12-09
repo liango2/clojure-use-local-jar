@@ -2,7 +2,7 @@
 
 # 引入本地jar包:
 
-例如 本地jar包存放在 C:\Users\liango\clojure-use-local-jar\resources目录下
+例如 本地jar包存放在C:\Users\liango\clojure-use-local-jar\resources\postgresql-9.2-1003-jdbc4.jar
 
 在project.clj中使用
  ```
